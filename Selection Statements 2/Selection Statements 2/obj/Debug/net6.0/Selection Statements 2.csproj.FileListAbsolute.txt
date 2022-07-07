@@ -1,0 +1,15 @@
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statements 2\Selection Statements 2\bin\Debug\net6.0\Selection Statements 2.exe
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statements 2\Selection Statements 2\bin\Debug\net6.0\Selection Statements 2.deps.json
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statements 2\Selection Statements 2\bin\Debug\net6.0\Selection Statements 2.runtimeconfig.json
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statements 2\Selection Statements 2\bin\Debug\net6.0\Selection Statements 2.dll
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statements 2\Selection Statements 2\bin\Debug\net6.0\Selection Statements 2.pdb
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statements 2\Selection Statements 2\obj\Debug\net6.0\Selection Statements 2.csproj.AssemblyReference.cache
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statements 2\Selection Statements 2\obj\Debug\net6.0\Selection Statements 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statements 2\Selection Statements 2\obj\Debug\net6.0\Selection Statements 2.AssemblyInfoInputs.cache
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statements 2\Selection Statements 2\obj\Debug\net6.0\Selection Statements 2.AssemblyInfo.cs
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statements 2\Selection Statements 2\obj\Debug\net6.0\Selection Statements 2.csproj.CoreCompileInputs.cache
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statements 2\Selection Statements 2\obj\Debug\net6.0\Selection Statements 2.dll
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statements 2\Selection Statements 2\obj\Debug\net6.0\refint\Selection Statements 2.dll
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statements 2\Selection Statements 2\obj\Debug\net6.0\Selection Statements 2.pdb
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statements 2\Selection Statements 2\obj\Debug\net6.0\Selection Statements 2.genruntimeconfig.cache
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statements 2\Selection Statements 2\obj\Debug\net6.0\ref\Selection Statements 2.dll
