@@ -13,21 +13,21 @@ namespace Selection_Statement_Exercise_1
             Console.WriteLine("Please enter a number 1-1000: ");
 
             var r = new Random();
-            var favNumber = r.Next(15);
+            var favNumber = r.Next(1, 1000);
             var userInput = int.Parse(Console.ReadLine());
 
 
 
 
-            if (userInput <= 14)
+            if (userInput < favNumber)
             {
                 Console.WriteLine("Too low.");
             }
-            else if (userInput >= 16)
+            else if (userInput > favNumber)
             {
                 Console.WriteLine("Too High.");
             }
-            if (userInput == 15)
+            else
             {
                 Console.WriteLine("You guessed it!!!");
             }
