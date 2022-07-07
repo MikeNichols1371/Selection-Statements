@@ -1,0 +1,15 @@
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statement Exercise 1\bin\Debug\net6.0\Selection Statement Exercise 1.exe
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statement Exercise 1\bin\Debug\net6.0\Selection Statement Exercise 1.deps.json
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statement Exercise 1\bin\Debug\net6.0\Selection Statement Exercise 1.runtimeconfig.json
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statement Exercise 1\bin\Debug\net6.0\Selection Statement Exercise 1.dll
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statement Exercise 1\bin\Debug\net6.0\Selection Statement Exercise 1.pdb
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statement Exercise 1\obj\Debug\net6.0\Selection Statement Exercise 1.csproj.AssemblyReference.cache
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statement Exercise 1\obj\Debug\net6.0\Selection Statement Exercise 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statement Exercise 1\obj\Debug\net6.0\Selection Statement Exercise 1.AssemblyInfoInputs.cache
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statement Exercise 1\obj\Debug\net6.0\Selection Statement Exercise 1.AssemblyInfo.cs
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statement Exercise 1\obj\Debug\net6.0\Selection Statement Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statement Exercise 1\obj\Debug\net6.0\Selection Statement Exercise 1.dll
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statement Exercise 1\obj\Debug\net6.0\refint\Selection Statement Exercise 1.dll
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statement Exercise 1\obj\Debug\net6.0\Selection Statement Exercise 1.pdb
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statement Exercise 1\obj\Debug\net6.0\Selection Statement Exercise 1.genruntimeconfig.cache
+C:\Users\mnich\OneDrive\Desktop\Repos\Selection Statement Exercise 1\Selection Statement Exercise 1\obj\Debug\net6.0\ref\Selection Statement Exercise 1.dll
